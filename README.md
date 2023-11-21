@@ -18,6 +18,7 @@ En PHP
 | :-------: | :----------------------: |
 |    #01    | [PHP](2023/01/index.php) |
 |    #02    | [PHP](2023/02/index.php) |
+|    #03    | [PHP](2023/03/index.php) |
 
 ## Tabla de secretos
 
@@ -29,3 +30,6 @@ En PHP
 |   #04   |      confetti       |
 |   #05   |        HTML         |
 |   #06   |     Abracadabra     |
+|   #07   |   do barrel roll    |
+|   #08   |      Majortom       |
+|   #09   |   Altman - OpenAI   |
